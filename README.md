@@ -1,1 +1,1 @@
-# VideoCall_JHU
+# VideoCall_VaidyaSamvaad
